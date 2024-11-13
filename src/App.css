@@ -6,6 +6,6 @@ body {
 @font-face {
   font-family: "GeistLight";
   src: local("GeistLight"),
-    url("./fonts/Geist-Light.otf") format("opentype");
+    url("./fonts/ComicNeue-Regular.ttf") format("opentype");
   font-weight: normal;
 }
